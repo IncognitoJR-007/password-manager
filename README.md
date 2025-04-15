@@ -32,7 +32,7 @@ A secure and easy-to-use password manager built with Python.
 
 1. Run the application:
    ```sh
-   python main.py
+   python app.py
    ```
 
 2. Follow the on-screen instructions to manage your passwords.
